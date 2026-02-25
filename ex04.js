@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Este método retorna um inteiro maior ou igual a um número. O resultado deste método é equivalente ao arredondamento de um número.</title>
+<title>Este método retorna um inteiro maior ou igual a um número.</title>
 </head>
 autor:Thaynara
 
