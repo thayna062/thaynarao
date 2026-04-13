@@ -1,0 +1,11 @@
+/******************************************************************************
+resumo do seu projeto de node.js
+
+*******************************************************************************/
+console.log('escola do futuro do estado de goias - jozé luiz bittencourt');
+console.log('curso tecnico do front-end e cibersegurança');
+console.log('back-end');
+console.log('george mendes marra tia bonita');
+console.log('criando um api de biblioteca');
+console.log('integrantes do projeto');
+console.log('data: 13/04/2026');
